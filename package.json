@@ -23,6 +23,7 @@
     "webpack-cli": "^4.1.0"
   },
   "dependencies": {
+    "@types/googlemaps": "^3.40.1",
     "axios": "^0.21.0"
   }
 }
